@@ -1,0 +1,23 @@
+body{
+    background: rgb(243,249,255) !important;
+    background: radial-gradient(circle, rgba(243,249,255,1) 0%, rgba(148,187,233,1) 100%) !important;  
+}
+
+.container1{
+    border-radius: 30px;
+    background-color: white !important;
+    padding: 3%;
+    margin-left: 18%;
+    margin-right:18%;
+    margin-bottom: 8%;
+}
+
+.container2{
+    margin: 60px;
+    text-align: center;
+}
+
+.size{
+    margin-left: 35%;
+    margin-right: 35%;
+}
